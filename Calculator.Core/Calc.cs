@@ -10,6 +10,11 @@ public static class Calc
         {
             throw new DivideByZeroException("Деление на ноль запрещено");
         }
+        //TODO: Добавить проверку деления
+        if (b == 0)
+        {
+            throw new DivideByZeroException("Деление на ноль запрещено");
+        }
 
         return a / b;
     }
