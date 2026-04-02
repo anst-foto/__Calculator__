@@ -6,8 +6,10 @@ public static class Calc
 {
     public static double Div(double a, double b)
     {
-        if (b == 0) 
+        if (b == 0)
+        {
             throw new DivideByZeroException("Деление на ноль запрещено");
+        }
 
         return a / b;
     }

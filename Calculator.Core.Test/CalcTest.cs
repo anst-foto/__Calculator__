@@ -1,4 +1,5 @@
 ﻿using System;
+
 using Xunit;
 
 namespace Calculator.Core.Test;
@@ -11,8 +12,8 @@ public class CalcTest
     [InlineData(0, 2)]
     public void Div_PositiveTest(double a, double b)
     {
-        var expected = a / b;
-        var actual = Calc.Div(a,b);
+        double expected = a / b;
+        double actual = Calc.Div(a, b);
         Assert.Equal(expected, actual);
     }
 
