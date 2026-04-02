@@ -2,6 +2,9 @@
   <Folder Name="/git/">
     <File Path=".gitignore" />
   </Folder>
+  <Folder Name="/github/">
+    <File Path=".github/workflows/dotnet.yml" />
+  </Folder>
   <Project Path="Calculator.Core.Test/Calculator.Core.Test.csproj" />
   <Project Path="Calculator.Core/Calculator.Core.csproj" />
 </Solution>
