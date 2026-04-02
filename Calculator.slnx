@@ -5,6 +5,9 @@
   <Folder Name="/github/">
     <File Path=".github/workflows/dotnet.yml" />
   </Folder>
+  <Folder Name="/others/">
+    <File Path=".editorconfig" />
+  </Folder>
   <Project Path="Calculator.Core.Test/Calculator.Core.Test.csproj" />
   <Project Path="Calculator.Core/Calculator.Core.csproj" />
 </Solution>
