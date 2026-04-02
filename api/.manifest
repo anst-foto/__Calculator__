@@ -1,0 +1,5 @@
+{
+  "Calculator.Core": "Calculator.Core.yml",
+  "Calculator.Core.Calc": "Calculator.Core.Calc.yml",
+  "Calculator.Core.Calc.Div(System.Double,System.Double)": "Calculator.Core.Calc.yml"
+}

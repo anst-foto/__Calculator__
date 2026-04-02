@@ -1,13 +1,20 @@
 <Solution>
+  <Folder Name="/docfx/">
+    <File Path="docfx.json" />
+    <File Path="docs/getting-started.md" />
+    <File Path="docs/introduction.md" />
+    <File Path="index.md" />
+    <File Path="toc.yml" />
+  </Folder>
   <Folder Name="/git/">
-    <File Path=".gitignore"/>
+    <File Path=".gitignore" />
   </Folder>
   <Folder Name="/github/">
-    <File Path=".github/workflows/dotnet.yml"/>
+    <File Path=".github/workflows/dotnet.yml" />
   </Folder>
   <Folder Name="/others/">
-    <File Path=".editorconfig"/>
+    <File Path=".editorconfig" />
   </Folder>
-  <Project Path="Calculator.Core.Test/Calculator.Core.Test.csproj"/>
-  <Project Path="Calculator.Core/Calculator.Core.csproj"/>
+  <Project Path="Calculator.Core.Test/Calculator.Core.Test.csproj" />
+  <Project Path="Calculator.Core/Calculator.Core.csproj" />
 </Solution>

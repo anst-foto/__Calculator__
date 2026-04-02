@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: Calculator.Core
+  commentId: N:Calculator.Core
+  id: Calculator.Core
+  children:
+  - Calculator.Core.Calc
+  langs:
+  - csharp
+  - vb
+  name: Calculator.Core
+  nameWithType: Calculator.Core
+  fullName: Calculator.Core
+  type: Namespace
+  assemblies:
+  - Calculator.Core
+references:
+- uid: Calculator.Core.Calc
+  commentId: T:Calculator.Core.Calc
+  href: Calculator.Core.Calc.html
+  name: Calc
+  nameWithType: Calc
+  fullName: Calculator.Core.Calc

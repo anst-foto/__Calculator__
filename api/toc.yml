@@ -1,0 +1,10 @@
+### YamlMime:TableOfContent
+items:
+- uid: Calculator.Core
+  name: Calculator.Core
+  type: Namespace
+  items:
+  - uid: Calculator.Core.Calc
+    name: Calc
+    type: Class
+memberLayout: SamePage
