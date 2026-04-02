@@ -10,6 +10,7 @@
     <File Path=".gitignore" />
   </Folder>
   <Folder Name="/github/">
+    <File Path=".github/workflows/docfx.yml" />
     <File Path=".github/workflows/dotnet.yml" />
   </Folder>
   <Folder Name="/others/">
